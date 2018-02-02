@@ -1,0 +1,10 @@
+E:\School\2018 Spring\CIDM4390\Code\CodingClub\bin\Debug\netcoreapp2.0\CodingClub.deps.json
+E:\School\2018 Spring\CIDM4390\Code\CodingClub\bin\Debug\netcoreapp2.0\CodingClub.runtimeconfig.json
+E:\School\2018 Spring\CIDM4390\Code\CodingClub\bin\Debug\netcoreapp2.0\CodingClub.runtimeconfig.dev.json
+E:\School\2018 Spring\CIDM4390\Code\CodingClub\bin\Debug\netcoreapp2.0\CodingClub.dll
+E:\School\2018 Spring\CIDM4390\Code\CodingClub\bin\Debug\netcoreapp2.0\CodingClub.pdb
+E:\School\2018 Spring\CIDM4390\Code\CodingClub\obj\Debug\netcoreapp2.0\CodingClub.csproj.CoreCompileInputs.cache
+E:\School\2018 Spring\CIDM4390\Code\CodingClub\obj\Debug\netcoreapp2.0\CodingClub.AssemblyInfoInputs.cache
+E:\School\2018 Spring\CIDM4390\Code\CodingClub\obj\Debug\netcoreapp2.0\CodingClub.AssemblyInfo.cs
+E:\School\2018 Spring\CIDM4390\Code\CodingClub\obj\Debug\netcoreapp2.0\CodingClub.dll
+E:\School\2018 Spring\CIDM4390\Code\CodingClub\obj\Debug\netcoreapp2.0\CodingClub.pdb
